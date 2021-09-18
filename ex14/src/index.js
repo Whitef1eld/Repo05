@@ -4,7 +4,7 @@ function main() {
     var myVerb = "ran";
     var myAdjective = "big";
     var myAdverb = "quickly";
-    var wordBlanks = "I " + myVerb + " so " + myAdverb + ", that the " + myAdjective + " " + myNoun + " couldn't catch me" + ".";
+    var wordBlanks = "My " + myNoun + " ate " + myAdjective + " cake, and " + myVerb + " away " + myAdverb + " into wild" + ".";
     // only change code above this line
     return wordBlanks;
 }
